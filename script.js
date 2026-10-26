@@ -92,7 +92,7 @@ function distance(x1, y1, x2, y2) {
   let y = (y2 - y1)**2;
   let sum = x + y;
   return Math.sqrt(sum).toFixed(2);
-
+}
 
 
 // --- tipCalc(bill, tipPercent) ---
